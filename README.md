@@ -12,7 +12,7 @@ Welcome to the Custom ChatGPT repository, an extension of the powerful ChatGPT m
 1) Custom System Prompts: Define how your ChatGPT model introduces itself or provides information.
 2) Personalized User Prompts: Configure user prompts for specific responses or guide the flow of the conversation.
 3) Flexibility: Suitable for a variety of applications from customer support bots to narrative-driven conversational agents.
-4) Able to upload or access Text files, PDFs and Wikipedia webpages
+
 
 ```
 git clone https://github.com/devindatt/Streamlit-ChatGPT.git
